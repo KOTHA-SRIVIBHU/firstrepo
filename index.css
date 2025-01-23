@@ -1,0 +1,87 @@
+
+img{
+align-content: centre;
+}
+.csshead{
+    font-size: 20px;
+    color: royalblue;
+    background-color: floralwhite;
+}
+.bcs{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Cambria;
+}
+.abc{
+display:flex;
+align-items: center;
+justify-content: center;
+margin: 0 auto;
+height: 100vh;
+}
+.squre
+{ background-color: #f0f3f4;
+width: 800px;
+height: 600px;
+border-radius: 14px;
+}
+
+div {
+    color: maroon;
+}
+.a0 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-top: 30px;
+	background-color: #9743a4 ;
+	
+}
+.a1 {
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    color: #333;
+}
+.a1 h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+}
+.a2 {
+    margin-bottom: 20px;
+    text-align: left;
+}
+.a2 label {
+    display: block;
+    margin-bottom: 5px;
+    color: #666;
+}
+.a2 input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.a3 {
+    width: 100%;
+    padding: 12px;
+    background: #4b6cb7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.a4 {
+    text-align: center;
+    color: #4b6cb7;
+    font-size: 14px;
+}
